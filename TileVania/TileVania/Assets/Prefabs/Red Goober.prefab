@@ -1,0 +1,79 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1001 &7200133257075869659
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    serializedVersion: 3
+    m_TransformParent: {fileID: 0}
+    m_Modifications:
+    - target: {fileID: 1927292140647437055, guid: 792d1419ec644b0479107c0338eba0a3, type: 3}
+      propertyPath: m_Color.b
+      value: 0.43659663
+      objectReference: {fileID: 0}
+    - target: {fileID: 1927292140647437055, guid: 792d1419ec644b0479107c0338eba0a3, type: 3}
+      propertyPath: m_Color.g
+      value: 0.43659663
+      objectReference: {fileID: 0}
+    - target: {fileID: 1927292140647437055, guid: 792d1419ec644b0479107c0338eba0a3, type: 3}
+      propertyPath: m_Color.r
+      value: 0.7924528
+      objectReference: {fileID: 0}
+    - target: {fileID: 2418547350351567045, guid: 792d1419ec644b0479107c0338eba0a3, type: 3}
+      propertyPath: m_RootOrder
+      value: -1
+      objectReference: {fileID: 0}
+    - target: {fileID: 2418547350351567045, guid: 792d1419ec644b0479107c0338eba0a3, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: -27.13
+      objectReference: {fileID: 0}
+    - target: {fileID: 2418547350351567045, guid: 792d1419ec644b0479107c0338eba0a3, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: -14.23
+      objectReference: {fileID: 0}
+    - target: {fileID: 2418547350351567045, guid: 792d1419ec644b0479107c0338eba0a3, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2418547350351567045, guid: 792d1419ec644b0479107c0338eba0a3, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 2418547350351567045, guid: 792d1419ec644b0479107c0338eba0a3, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2418547350351567045, guid: 792d1419ec644b0479107c0338eba0a3, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2418547350351567045, guid: 792d1419ec644b0479107c0338eba0a3, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2418547350351567045, guid: 792d1419ec644b0479107c0338eba0a3, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2418547350351567045, guid: 792d1419ec644b0479107c0338eba0a3, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2418547350351567045, guid: 792d1419ec644b0479107c0338eba0a3, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3450116146911864455, guid: 792d1419ec644b0479107c0338eba0a3, type: 3}
+      propertyPath: m_Name
+      value: Red Goober
+      objectReference: {fileID: 0}
+    - target: {fileID: 6162040243389572348, guid: 792d1419ec644b0479107c0338eba0a3, type: 3}
+      propertyPath: moveSpeed
+      value: 2
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+    m_RemovedGameObjects: []
+    m_AddedGameObjects: []
+    m_AddedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 792d1419ec644b0479107c0338eba0a3, type: 3}
